@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-20T09:33:36.004838Z",
+  "generated_at": "2026-11-20T18:13:55.085636Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 519,
+      "duration_ms": 494,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 423,
+      "duration_ms": 303,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 358,
-      "duration_ms": 50176,
+      "item_count": 287,
+      "duration_ms": 49427,
       "error": null
     },
     {
@@ -30,23 +30,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 317,
+      "duration_ms": 746,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3042,
-      "duration_ms": 952,
+      "item_count": 3024,
+      "duration_ms": 1427,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 71,
-      "duration_ms": 813,
+      "item_count": 57,
+      "duration_ms": 647,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5789,
+      "duration_ms": 5012,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')))"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1438,
+      "duration_ms": 1322,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": true,
       "item_count": 500,
-      "duration_ms": 722,
+      "duration_ms": 399,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 126,
-      "duration_ms": 1400,
+      "duration_ms": 925,
       "error": null
     }
   ],
@@ -87,9 +87,9 @@
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5267,
-  "items_before_topic_filter": 5107,
-  "items_in_24h": 1090,
+  "fetched_raw_items": 5164,
+  "items_before_topic_filter": 4986,
+  "items_in_24h": 1023,
   "rss_opml": {
     "enabled": false,
     "path": null,
